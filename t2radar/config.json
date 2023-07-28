@@ -1,0 +1,17 @@
+{
+    "net": {
+        "ip": "192.168.1.151",
+        "port": 21210
+    },
+    "radar": {
+        "integrationIndex": 11,
+        "scanStart": 26685,
+        "scanEnd": 79419,
+        "scanInterval": 0,
+        "scanCount": 65535,
+        "distanceCorrection": -2.0
+    },
+    "ui": {
+        "units": "m"
+    }
+}
